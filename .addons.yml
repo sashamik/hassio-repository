@@ -1,6 +1,6 @@
 channel: stable
 addons:
   googlebackup:
-    repository: samccauley/addon-hassiogooglebackup
-    target: googlebackup
-    image: samccauley/{arch}-googlebackup
+    repository: sashamik/addon-hassiogooglebackup
+    target: googlebackupextra
+    image: sashamik/{arch}-googlebackup
